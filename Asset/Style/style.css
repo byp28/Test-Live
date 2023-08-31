@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(41, 40, 40);
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+header h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
